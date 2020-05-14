@@ -2,6 +2,8 @@
 
 #### runloop卡顿检测 打印主线程
 
+#### runloop卡顿检测增加注释
+
 #### 学习自：
 
 [资料1](https://juejin.im/post/5cacb2baf265da03904bf93b)
